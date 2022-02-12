@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Anh',
+    introTitle: 'Anh à',
     introDesc: `Cảm ơn anh đã đến bên cạnh em để em biết như thế nào là lấy hết dũng cảm để yêu một người. 
-    Anh khiến em lần đầu tiên cảm nhận được những quan tâm, lo lắng từ một người khác mà không phải là từ ba mẹ em.
+    Anh là người đầu tiên khiến em lần đầu tiên cảm nhận được những quan tâm, lo lắng từ một người khác mà không phải là từ ba mẹ em.
     Cảm ơn vì tất cả những điều ngọt ngào mà anh dành cho em.`,
-    btnIntro: '^^Yêu Anh^^',
+    btnIntro: 'Yêu Anh',
     title: 'Valentine vui vẻ nhé 🥰',
     desc: 'Yêu em khum ? ',
     btnYes: 'Yêu <33',
